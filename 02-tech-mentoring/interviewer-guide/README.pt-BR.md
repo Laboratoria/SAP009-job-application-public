@@ -35,7 +35,7 @@ com uma experiência real, dentro da estrutura do Bootcamp.
   - Estratégias de análise e solução de problemas. Como ela enfrentou o(s) exercício(s)?
   - Comunicação. Clareza na explicação de sua estratégia, uso de termos técnicos, experiência e proposta de solução.
 
-## A dinámica
+## A dinâmica
 
 Neste [link](https://docs.google.com/document/d/1o7zjuSKyZKKev54tmro1JOztoDa2aj1E/edit?rtpof=true) você encontrará a vaga para a qual a estudante
 está se candidatando. É importante que você leve em consideração o que está descrito para a simulação.

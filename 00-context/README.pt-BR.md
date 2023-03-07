@@ -98,12 +98,12 @@ revisão e feedback das ferramentas com a simulação.**
 
 |                    Atividades                        |   Tipo   | Semana        | Dia/hora           |
 |----------------------------------------------------- |----------|---------------|--------------------|
-| Sessão de perguntas e respostas sobre o programa.    |   Fixa   |               |  05/10 às 18h00    |
-| Sessão de revisão e feedback de CV + LinkedIn.       |   Fixa   |               |  13/10 às 18h00    |
-| Sessão de acompanhamento do feedback.                | Aberta   |  17 a 20/10   |                    |
-| Enviar formulário de avaliação e feedback CV/LinkedIn| Aberta   |  24 a 28/10   |                    |
-| Simulação de entrevista de recursos humanos.         | Aberta   |  31/10 a 11/11|                    |         
-| Enviar formulário de avaliação e feedback entrevista.| Aberta   |  14 a 18/11   |                    |
+| Sessão de perguntas e respostas sobre o programa.    |   Fixa   |               |  05/04 às 18h00    |
+| Sessão de revisão e feedback de CV + LinkedIn.       |   Fixa   |               |  10/04 às 18h00    |
+| Sessão de acompanhamento do feedback.                | Aberta   |  17 a 21/04   |                    |
+| Enviar formulário de avaliação e feedback CV/LinkedIn| Aberta   |  24 a 28/04   |                    |
+| Simulação de entrevista de recursos humanos.         | Aberta   |  01/05 a 11/05|                    |         
+| Enviar formulário de avaliação e feedback entrevista.| Aberta   |   14 a 18/05   |                    |
 
 ### Objetivos de aprendizagem
 
@@ -130,9 +130,9 @@ consultar os objetivos a serem alcançados com a simulação, revisão e feedbac
 
 |                 Atividades                       |   Tipo   | Semana   | Dia/hora |
 |--------------------------------------------------|----------|----------|----------|
-| Sessão de perguntas e respostas sobre o programa.|   Fixa   |          |          |
-| Simulação de entrevista técnica.                 |  Aberta  |          |          |
-| Enviar formulário de avaliação e feedback.       |  Aberta  |          |          |
+| Sessão de perguntas e respostas sobre o programa.|   Fixa   |          |  02/05        |
+| Simulação de entrevista técnica.                 |  Aberta  |          |     De 15 a 26/05     |
+| Enviar formulário de avaliação e feedback.       |  Aberta  |          |   29 a 03/06       |
 
 ### Objetivos de aprendizagem
 
