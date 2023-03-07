@@ -145,7 +145,7 @@ Lembre-se que no final, a estudante irá pedir um feedback. Concentre-se em comp
 falou sobre a questão ‘X’, você se mostrou hesitante, e isso me fez pensar que você não tinha uma ideia tão clara. Sugiro que reflita sobre o
 ponto ‘X’ e prepare a resposta de forma mais estruturada”.*
 
-**Também listamos para você elementos que sugerimos que você leve em consideração, pois eles serão incluídos neste [formulário](https://forms.gle/DtR7ajHhas1UoC5G8)que você preencherá após a simulação.**
+**Também listamos para você elementos que sugerimos que você leve em consideração, pois eles serão incluídos neste [formulário](https://forms.gle/DtR7ajHhas1UoC5G8) que você preencherá após a simulação.**
 
 * **Sobre a entrevista:**
     * Se a estudante comunica seu perfil como desenvolvedora web
