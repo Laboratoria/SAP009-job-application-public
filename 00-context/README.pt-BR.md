@@ -130,7 +130,7 @@ consultar os objetivos a serem alcançados com a simulação, revisão e feedbac
 
 |                 Atividades                       |   Tipo   | Semana   | Dia/hora |
 |--------------------------------------------------|----------|----------|----------|
-| Sessão de perguntas e respostas sobre o programa.|   Fixa   |          |  02/05        |
+| Sessão de perguntas e respostas sobre o programa.|   Fixa   |    01 a 05/05      |  a definir        |
 | Simulação de entrevista técnica.                 |  Aberta  |          |     De 15 a 26/05     |
 | Enviar formulário de avaliação e feedback.       |  Aberta  |          |   29 a 03/06       |
 
