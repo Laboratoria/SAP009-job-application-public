@@ -165,7 +165,7 @@ você e como você trabalhou isso, seria ótimo.
 Vale a pena manter sempre um tom positivo no feedback e fornecer informações concretas e, se possível, links, recursos e/ou conteúdos se você
 achar que a estudante deve se concentrar nos pontos em que pode melhorar.
 
-2) **Feedback para a equipe**, que você fará através de um [_score card_](https://docs.google.com/forms/d/e/1FAIpQLSejGtGfiwu1_-H2TsBDk7ud6LJFIUTONwh62YjKeaQHta24Iw/viewform) que pedirá para que você avalie seu desempenho nos diferentes aspectos que compõem a
+2) **Feedback para a equipe**, que você fará através de um [_score card_](https://forms.gle/QNnRHNZoGPn3VCKGA) que pedirá para que você avalie seu desempenho nos diferentes aspectos que compõem a
 simulação e deixe recomendações para a equipe.
 
 
